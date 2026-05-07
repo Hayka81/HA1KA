@@ -71,15 +71,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HA1KA&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HA1KA&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
