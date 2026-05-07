@@ -74,8 +74,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HA1KA&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HA1KA&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HA1KA&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/HA1KA">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -99,7 +99,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00d9ff&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=HA1KA&label=Profile+Views&color=00d9ff&style=for-the-badge"/>
 </p>
 
 <h3 align="center">⚡ "Code. Build. Optimize." ⚡</h3>
